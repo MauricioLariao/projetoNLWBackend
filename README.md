@@ -1,2 +1,2 @@
 # projetoNLWBackend
-Projeto de backend usando node e sqllite
+Projeto de backend usando react e sqllite
